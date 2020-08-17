@@ -1,0 +1,16 @@
+C:\Users\v-zheshi\source\repos\Marie-Shi\Test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net5.0-windows\WindowsFormsApp1.exe
+C:\Users\v-zheshi\source\repos\Marie-Shi\Test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net5.0-windows\WindowsFormsApp1.deps.json
+C:\Users\v-zheshi\source\repos\Marie-Shi\Test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net5.0-windows\WindowsFormsApp1.runtimeconfig.json
+C:\Users\v-zheshi\source\repos\Marie-Shi\Test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net5.0-windows\WindowsFormsApp1.runtimeconfig.dev.json
+C:\Users\v-zheshi\source\repos\Marie-Shi\Test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net5.0-windows\WindowsFormsApp1.dll
+C:\Users\v-zheshi\source\repos\Marie-Shi\Test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\net5.0-windows\WindowsFormsApp1.pdb
+C:\Users\v-zheshi\source\repos\Marie-Shi\Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net5.0-windows\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\v-zheshi\source\repos\Marie-Shi\Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net5.0-windows\WindowsFormsApp1.Form1.resources
+C:\Users\v-zheshi\source\repos\Marie-Shi\Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net5.0-windows\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\v-zheshi\source\repos\Marie-Shi\Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net5.0-windows\WindowsFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-zheshi\source\repos\Marie-Shi\Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net5.0-windows\WindowsFormsApp1.AssemblyInfoInputs.cache
+C:\Users\v-zheshi\source\repos\Marie-Shi\Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net5.0-windows\WindowsFormsApp1.AssemblyInfo.cs
+C:\Users\v-zheshi\source\repos\Marie-Shi\Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net5.0-windows\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\v-zheshi\source\repos\Marie-Shi\Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net5.0-windows\WindowsFormsApp1.dll
+C:\Users\v-zheshi\source\repos\Marie-Shi\Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net5.0-windows\WindowsFormsApp1.pdb
+C:\Users\v-zheshi\source\repos\Marie-Shi\Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\net5.0-windows\WindowsFormsApp1.genruntimeconfig.cache
