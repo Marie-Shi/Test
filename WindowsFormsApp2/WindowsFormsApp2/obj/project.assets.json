@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\v-zheshi\\Source\\Repos\\Marie-Shi\\Test\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
-      "projectName": "WindowsFormsApp1",
-      "projectPath": "C:\\Users\\v-zheshi\\Source\\Repos\\Marie-Shi\\Test\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+      "projectUniqueName": "C:\\Users\\v-zheshi\\source\\repos\\Marie-Shi\\Test\\WindowsFormsApp2\\WindowsFormsApp2\\WindowsFormsApp2.csproj",
+      "projectName": "WindowsFormsApp2",
+      "projectPath": "C:\\Users\\v-zheshi\\source\\repos\\Marie-Shi\\Test\\WindowsFormsApp2\\WindowsFormsApp2\\WindowsFormsApp2.csproj",
       "packagesPath": "C:\\Users\\v-zheshi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\v-zheshi\\Source\\Repos\\Marie-Shi\\Test\\WindowsFormsApp1\\WindowsFormsApp1\\obj\\",
+      "outputPath": "C:\\Users\\v-zheshi\\source\\repos\\Marie-Shi\\Test\\WindowsFormsApp2\\WindowsFormsApp2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\v-zheshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,7 +32,7 @@
       },
       "frameworks": {
         "net5.0": {
-          "targetAlias": "net5.0-windows",
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -44,7 +44,7 @@
     },
     "frameworks": {
       "net5.0": {
-        "targetAlias": "net5.0-windows",
+        "targetAlias": "net5.0",
         "imports": [
           "net461",
           "net462",
